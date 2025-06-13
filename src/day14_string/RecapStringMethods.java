@@ -24,7 +24,7 @@ public class RecapStringMethods {
 
         boolean resultOfEqualsMethod = str1.equals(str2);
 
-        String str5 = "Loop";
+        String str5 = "day17_loops";
         System.out.println(str1.equalsIgnoreCase((str4)));
         boolean isSameWithoutCaseSensitiveness = "LoOp".equalsIgnoreCase(str5);
 

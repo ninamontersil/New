@@ -2,8 +2,8 @@ package day13_string;
 
 public class StringImmutable {
     public static void main(String[] args) {
-        String word1 = "Loop";
-        String word2 = "Loop";
+        String word1 = "day17_loops";
+        String word2 = "day17_loops";
 
         System.out.println(word1);
         System.out.println(word2);
