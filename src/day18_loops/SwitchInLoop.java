@@ -14,6 +14,8 @@ public class SwitchInLoop {
             }
             System.out.println("_____________");
 
+            ;
+
         }
     }
 }
